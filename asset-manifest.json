@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-consumer-app-project-for-testing-ppv3/static/css/main.964fdded.css",
+    "main.js": "/react-consumer-app-project-for-testing-ppv3/static/js/main.a3c20a67.js",
+    "static/js/787.e9b1b5d0.chunk.js": "/react-consumer-app-project-for-testing-ppv3/static/js/787.e9b1b5d0.chunk.js",
+    "index.html": "/react-consumer-app-project-for-testing-ppv3/index.html",
+    "main.964fdded.css.map": "/react-consumer-app-project-for-testing-ppv3/static/css/main.964fdded.css.map",
+    "main.a3c20a67.js.map": "/react-consumer-app-project-for-testing-ppv3/static/js/main.a3c20a67.js.map",
+    "787.e9b1b5d0.chunk.js.map": "/react-consumer-app-project-for-testing-ppv3/static/js/787.e9b1b5d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.a3c20a67.js"
+  ]
+}
